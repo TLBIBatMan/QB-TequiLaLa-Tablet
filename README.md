@@ -58,6 +58,5 @@
 - English
 
 #Dependencies :
-- BatzCore FrameWork
 - QB-Core FrameWork
 - ESX FrameWork
