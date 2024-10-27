@@ -4,7 +4,7 @@
 
 #Job : tequilala
 
-| Staff Roles   | ---------- | ---------- |
+| Staff Roles   |    Wages   | ---------- |
 | ------------- | ---------- | ---------- |
 | Owner         | ---------- | ---------- |
 | Co-Owner      | ---------- | ---------- |
@@ -59,4 +59,3 @@
 
 #Dependencies :
 - QB-Core FrameWork
-- ESX FrameWork
