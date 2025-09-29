@@ -59,3 +59,4 @@
 
 #Dependencies :
 - QB-Core FrameWork
+- OX_Lib
